@@ -17,6 +17,6 @@ cp example.env .env # use vim to edit ENVs
 vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file).
 sudo python3 main.py # run the bot.
 
-https://heroku.com/deploy?template=https://github.com/Hossamhos/Hossamh
+https://heroku.com/deploy?template=
 
 
