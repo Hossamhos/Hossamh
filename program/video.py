@@ -64,7 +64,7 @@ async def vplay(c: Client, m: Message):
                 InlineKeyboardButton(text="⌯ قائمه تحكم ⌯", callback_data="cbmenu"),
                 InlineKeyboardButton(text="⌯ اغــلاق ⌯", callback_data="cls"),
               ],
-              [InlineKeyboardButton("⌯ 𝐒𝐄𝐋𝐕𝐀 𝐌𝐔𝐒𝐈𝐂 🎶 ⌯", url=f"https://t.me/SO_SELVA"),
+              [InlineKeyboardButton("⌯ 𝐒𝐄𝐋𝐕𝐀 𝐌𝐔𝐒𝐈𝐂 🎶 ⌯", url=f"https://t.me/x3j_xj3"),
                 ],
               [InlineKeyboardButton("⌯ اضافه البوت اللي مجموعتك ⌯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),              
             ]
@@ -301,7 +301,7 @@ async def vstream(c: Client, m: Message):
                 InlineKeyboardButton(text="⌯ قائمه تحكم ⌯", callback_data="cbmenu"),
                 InlineKeyboardButton(text="⌯ اغــلاق ⌯", callback_data="cls"),
               ],
-              [InlineKeyboardButton("⌯ 𝐒𝐄𝐋𝐕𝐀 𝐌𝐔𝐒𝐈𝐂 🎶 ⌯", url=f"https://t.me/SO_SELVA"),
+              [InlineKeyboardButton("⌯ 𝐒𝐄𝐋𝐕𝐀 𝐌𝐔𝐒𝐈𝐂 🎶 ⌯", url=f"https://t.me/x3j_xj3"),
               ],
               [InlineKeyboardButton("⌯ اضافه البوت اللي مجموعتك ⌯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),               
             ]
